@@ -431,15 +431,195 @@
       9,
       "Anchor River",
       "Coho"
+    ],
+    [
+      2025,
+      "September, 05 2025 00:00:00",
+      157,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 06 2025 00:00:00",
+      40,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 07 2025 00:00:00",
+      61,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 08 2025 00:00:00",
+      185,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 09 2025 00:00:00",
+      182,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 10 2025 00:00:00",
+      147,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 11 2025 00:00:00",
+      87,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 13 2025 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 14 2025 00:00:00",
+      11,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 15 2025 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 16 2025 00:00:00",
+      15,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 17 2025 00:00:00",
+      38,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 18 2025 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 19 2025 00:00:00",
+      29,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 20 2025 00:00:00",
+      45,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 21 2025 00:00:00",
+      19,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 22 2025 00:00:00",
+      9,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 23 2025 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 24 2025 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 25 2025 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
     ]
   ],
   "metadata": {
-    "location_id": 9,
+    "location_id": "9",
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 47,
-    "totalCount": 3196,
+    "totalRecords": 67,
+    "totalCount": 4241,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-07T13:02:18.415183"
+    "last_updated": "2025-09-26T10:29:17.020343"
   }
 }
