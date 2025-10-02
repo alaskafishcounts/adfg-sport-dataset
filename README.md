@@ -66,7 +66,7 @@ Some species have multiple run types:
 
 ## 📍 Monitoring Locations
 
-This repository contains data from **58+ monitoring stations** across Alaska, including:
+This repository contains data from **57 monitoring stations** across Alaska, including:
 
 ### 🏔️ Major Regions
 
@@ -81,6 +81,47 @@ This repository contains data from **58+ monitoring stations** across Alaska, in
 * **Fish Passes**: Artificial structures for fish counting
 * **Weirs**: Natural barriers used for monitoring
 * **Sonar Sites**: Advanced acoustic monitoring stations
+
+## Location Directory
+
+This dataset contains **57 locations** across Alaska with current sport fishing data. Each location is organized by AFCA Location Codes Framework (0-999 range).
+
+### Complete Location List (57 Locations)
+
+| Location ID | Location Name | Species Available | GitHub Folder |
+|-------------|---------------|-------------------|---------------|
+| 1 | [Location 1](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/1) | chinook, sockeye, coho, pink, chum, steelhead | [1](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/1) |
+| 5 | [Location 5](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/5) | chinook, sockeye, coho, pink, chum, steelhead | [5](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/5) |
+| 6 | [Location 6](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/6) | chinook, sockeye | [6](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/6) |
+| 7 | [Location 7](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/7) | chinook, sockeye, coho, pink, chum | [7](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/7) |
+| 8 | [Location 8](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/8) | chinook, sockeye, coho, pink, chum | [8](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/8) |
+| 9 | [Location 9](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/9) | chinook, coho, steelhead | [9](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/9) |
+| 11 | [Location 11](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/11) | chinook, coho | [11](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/11) |
+| 13 | [Location 13](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/13) | chinook, sockeye, coho, chum | [13](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/13) |
+| 15 | [Location 15](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/15) | chinook | [15](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/15) |
+| 16 | [Location 16](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/16) | chinook, sockeye, coho, pink, chum | [16](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/16) |
+| 17 | [Location 17](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/17) | chinook, sockeye, coho, pink, chum | [17](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/17) |
+| 19 | [Location 19](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/19) | chinook, sockeye, coho, pink, chum | [19](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/19) |
+| 20 | [Location 20](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/20) | chinook, sockeye, coho, pink, chum | [20](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/20) |
+| 21 | [Location 21](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/21) | chinook, sockeye, coho, pink, chum | [21](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/21) |
+| 22 | [Location 22](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/22) | sockeye, coho, pink, chum | [22](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/22) |
+| 23 | [Location 23](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/23) | chinook, sockeye, coho, pink, chum, steelhead | [23](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/23) |
+| 24 | [Location 24](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/24) | chinook, sockeye, coho, pink, chum, steelhead | [24](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/24) |
+| 25 | [Location 25](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/25) | chinook, sockeye, coho, pink, chum, steelhead | [25](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/25) |
+| 26 | [Location 26](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/26) | chinook, sockeye, coho, pink, chum, steelhead | [26](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/26) |
+| 27 | [Location 27](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/27) | chinook, sockeye, coho, pink, chum, steelhead | [27](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/27) |
+
+*Note: This table shows the first 20 locations. The complete dataset contains 57 locations total. Each location folder contains species-specific subdirectories with current sport fishing data.*
+
+### Regional Organization
+
+The locations are organized by management areas:
+
+- **Southcentral Alaska (0-199)**: Kenai Peninsula, Cook Inlet, Mat-Su Valley
+- **Southeast Alaska (200-399)**: Juneau, Ketchikan, Sitka areas
+- **Interior Alaska (400-599)**: Fairbanks, Denali, Yukon areas
+- **Southwest Alaska (600-799)**: Bristol Bay, Kodiak, Aleutian areas
+- **Arctic Alaska (800-999)**: North Slope, Arctic Coast areas
 
 ## 📊 Data Format
 
