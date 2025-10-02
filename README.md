@@ -71,65 +71,8 @@ This dataset contains **57 locations** across Alaska with current sport fishing 
 
 ### All Sport Fishing Locations
 
-| Location ID | Location Name | Species Available | GitHub Folder |
-|-------------|---------------|-------------------|---------------|
-| 1 | Auke Creek | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/1) |
-| 5 | Situk River | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/5) |
-| 6 | Gulkana River | chinook, sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/6) |
-| 7 | Coghill River | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/7) |
-| 8 | Eshamy Creek | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/8) |
-| 9 | Anchor River | chinook, coho, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/9) |
-| 11 | Deep Creek | chinook, coho | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/11) |
-| 13 | Russian River | chinook, sockeye, coho, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/13) |
-| 15 | Crooked Creek | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/15) |
-| 16 | Little Susitna | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/16) |
-| 17 | Deshka | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/17) |
-| 19 | Wasilla Creek | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/19) |
-| 20 | Cottonwood Creek | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/20) |
-| 21 | Fish Creek | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/21) |
-| 22 | Pauls Bay River | sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/22) |
-| 23 | Afognak River (Litnik) | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/23) |
-| 24 | Karluk River | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/24) |
-| 25 | Ayakulik River | chinook, sockeye, coho, pink, chum, sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/25) |
-| 26 | Olga Creek (Upper Station) | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/26) |
-| 27 | Dog Salmon River | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/27) |
-| 28 | Buskin River | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/28) |
-| 29 | Saltery Creek | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/29) |
-| 30 | Chignik River | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/30) |
-| 31 | Orzinski Lake | chinook, sockeye, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/31) |
-| 32 | Nelson River (Sapsuk) | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/32) |
-| 33 | Bear River | chinook, sockeye, coho, pink, chum, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/33) |
-| 34 | Sandy River | sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/34) |
-| 35 | Ilnik River | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/35) |
-| 37 | Chena River | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/37) |
-| 38 | Salcha River | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/38) |
-| 39 | Copper River (Miles L) | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/39) |
-| 40 | Kenai River (late-run sockeye) | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/40) |
-| 41 | Kasilof River (sockeye) | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/41) |
-| 42 | Crescent River | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/42) |
-| 43 | Yentna River | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/43) |
-| 44 | Ugashik River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/44) |
-| 45 | Egegik River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/45) |
-| 46 | Kvichak River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/46) |
-| 47 | Alagnak River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/47) |
-| 48 | Naknek River | sockeye | [Sport](https://twitter.com/alaskafishcounts/adfg-sport-dataset/tree/master/48) |
-| 49 | Igushik River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/49) |
-| 50 | Wood River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/50) |
-| 51 | Nushagak River | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/51) |
-| 52 | Nuyakuk River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/52) |
-| 53 | Togiak River | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/53) |
-| 60 | Situk River | chinook, sockeye, coho, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60) |
-| 72 | Kenai River (Chinook) | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72) |
-| 73 | Jim Creek | chinook, sockeye, pink, chum | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73) |
-| 74 | McLees Lake | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/74) |
-| 75 | Ninilchik River | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/75) |
-| 76 | Redoubt Lake | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/76) |
-| 77 | Klag Lake | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/77) |
-| 78 | Lake Creek | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/78) |
-| 79 | Iliuliuk River(Town Creek) | chinook, steelhead | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/79) |
-| 81 | Litnik Weir | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/81) |
-| 88 | Upper Station Weir | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/88) |
-| 89 | Ayakulik River Weir | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/89) |
+| Location ID | Location Name | Species Available |
+|-------------|---------------|-------------------|
 
 *This table shows all 57 locations in the sport dataset following AFCA Location Codes Framework (0-100 range). Each location folder contains species-specific subdirectories with current sport fishing data.*
 
