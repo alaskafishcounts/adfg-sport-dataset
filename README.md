@@ -1,5 +1,7 @@
 # 🐟 Alaska Fish Count Data Repository
 
+**ADFG Sport Fish Count Dataset - 86 years of sport fishing data (1939-2024) across 58+ locations and 6 species**
+
 **Official fish count data from Alaska Department of Fish & Game (ADFG) monitoring stations**
 
 GitHub License Data Source
