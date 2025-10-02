@@ -20,7 +20,9 @@ This repository contains official fish count data from 57 monitoring stations ac
 
 This dataset follows the official AFCA Location Codes Framework for sport fishing locations:
 
-#### Location ID Range: 0-100
+#### Location ID Range: 0-100 (current)
+- Reserved for expansion: 200-999 (not currently assigned)
+
 - **0-199**: Southcentral Alaska (Kenai Peninsula, Cook Inlet, Mat-Su Valley)
 - **200-399**: Southeast Alaska (Juneau, Ketchikan, Sitka areas)
 - **400-599**: Interior Alaska (Fairbanks, Denali, Yukon areas)
