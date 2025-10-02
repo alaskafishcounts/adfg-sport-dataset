@@ -16,11 +16,11 @@
 
 This repository contains official fish count data from 57 monitoring stations across Alaska, operated by the Alaska Department of Fish & Game (ADF&G). The data is organized according to the official AFCA Location Codes Framework and serves as the data source for the Alaska Fish Count App.
 
-### 📋 AFCA Location Codes Framework (Sport: 0-999)
+### 📋 AFCA Location Codes Framework (Sport: 0-100)
 
 This dataset follows the official AFCA Location Codes Framework for sport fishing locations:
 
-#### Location ID Range: 0-999
+#### Location ID Range: 0-100
 - **0-199**: Southcentral Alaska (Kenai Peninsula, Cook Inlet, Mat-Su Valley)
 - **200-399**: Southeast Alaska (Juneau, Ketchikan, Sitka areas)
 - **400-599**: Interior Alaska (Fairbanks, Denali, Yukon areas)
@@ -65,7 +65,7 @@ adfg-sport-dataset/
 
 ## 📍 Complete Location Directory (57 Locations)
 
-This dataset contains **57 locations** across Alaska with current sport fishing data. Each location is organized by AFCA Location Codes Framework (0-999 range).
+This dataset contains **57 locations** across Alaska with current sport fishing data. Each location is organized by AFCA Location Codes Framework (0-100 range).
 
 ### All Sport Fishing Locations
 
@@ -129,7 +129,7 @@ This dataset contains **57 locations** across Alaska with current sport fishing 
 | 88 | Upper Station Weir | sockeye | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/88) |
 | 89 | Ayakulik River Weir | chinook | [Sport](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/89) |
 
-*This table shows all 57 locations in the sport dataset following AFCA Location Codes Framework (0-999 range). Each location folder contains species-specific subdirectories with current sport fishing data.*
+*This table shows all 57 locations in the sport dataset following AFCA Location Codes Framework (0-100 range). Each location folder contains species-specific subdirectories with current sport fishing data.*
 
 ## 📊 Data Format
 
@@ -171,19 +171,13 @@ All files follow the ADFG standard format with consistent column structure:
 
 ## 🏔️ Regional Organization
 
-The locations are organized by AFCA management areas:
-
-- **Southcentral Alaska (0-199)**: Kenai Peninsula, Cook Inlet, Mat-Su Valley
-- **Southeast Alaska (200-399)**: Juneau, Ketchikan, Sitka areas  
-- **Interior Alaska (400-599)**: Fairbanks, Denali, Yukon areas
-- **Southwest Alaska (600-799)**: Bristol Bay, Kodiak, Aleutian areas
-- **Arctic Alaska (800-999)**: North Slope, Arctic Coast areas
+All SPORT locations use AFCA IDs 0–100. Regional grouping is not encoded in the ID range.
 
 ## 🔄 Related Datasets
 
 - **Commercial Dataset**: Commercial fishing data (1000-1999 range)
 - **SASAP Dataset**: Historical escapement data (2000-2999 range)
-- **Sport Dataset**: Current sport fishing data (0-999 range) - *This dataset*
+- **Sport Dataset**: Current sport fishing data (0-100 range) - *This dataset*
 
 ## 📄 License & Attribution
 
