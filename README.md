@@ -291,3 +291,66 @@ Retrieved from https://github.com/alaskafishcounts/adfg-sport-dataset
 **Version**: AFCA v1.0.1  
 **Data Source**: Alaska Department of Fish & Game (ADF&G)  
 **Repository**: alaskafishcounts/adfg-sport-dataset
+
+
+### Complete Location List
+
+| Location ID | Location Name | Species Available | GitHub Folder |
+|-------------|---------------|-------------------|---------------|
+| 1 | Auke Creek | 6 | [1](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/1) |
+| 5 | Situk River | 6 | [5](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/5) |
+| 6 | Gulkana River | 2 | [6](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/6) |
+| 7 | Coghill River | 5 | [7](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/7) |
+| 8 | Eshamy Creek | 5 | [8](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/8) |
+| 9 | Anchor River | 3 | [9](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/9) |
+| 11 | Deep Creek | 2 | [11](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/11) |
+| 13 | Russian River | 5 | [13](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/13) |
+| 15 | Crooked Creek | 1 | [15](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/15) |
+| 16 | Little Susitna | 5 | [16](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/16) |
+| 17 | Deshka | 5 | [17](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/17) |
+| 19 | Wasilla Creek | 5 | [19](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/19) |
+| 20 | Cottonwood Creek | 5 | [20](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/20) |
+| 21 | Fish Creek | 5 | [21](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/21) |
+| 22 | Pauls Bay River | 4 | [22](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/22) |
+| 23 | Afognak River (Litnik) | 6 | [23](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/23) |
+| 24 | Karluk River | 6 | [24](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/24) |
+| 25 | Ayakulik River | 6 | [25](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/25) |
+| 26 | Olga Creek (Upper Station) | 6 | [26](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/26) |
+| 27 | Dog Salmon River | 6 | [27](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/27) |
+| 28 | Buskin River | 6 | [28](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/28) |
+| 29 | Saltery Creek | 6 | [29](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/29) |
+| 30 | Chignik River | 5 | [30](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/30) |
+| 31 | Orzinski Lake | 4 | [31](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/31) |
+| 32 | Nelson River (Sapsuk) | 5 | [32](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/32) |
+| 33 | Bear River | 6 | [33](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/33) |
+| 34 | Sandy River | 4 | [34](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/34) |
+| 35 | Ilnik River | 5 | [35](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/35) |
+| 37 | Chena River | 2 | [37](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/37) |
+| 38 | Salcha River | 2 | [38](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/38) |
+| 39 | Copper River (Miles L) | 1 | [39](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/39) |
+| 40 | Kenai River (late-run sockeye) | 1 | [40](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/40) |
+| 41 | Kasilof River (sockeye) | 1 | [41](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/41) |
+| 42 | Crescent River | 1 | [42](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/42) |
+| 43 | Yentna River | 1 | [43](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/43) |
+| 44 | Ugashik River | 1 | [44](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/44) |
+| 45 | Egegik River | 1 | [45](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/45) |
+| 46 | Kvichak River | 1 | [46](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/46) |
+| 47 | Alagnak River | 1 | [47](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/47) |
+| 48 | Naknek River | 1 | [48](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/48) |
+| 49 | Igushik River | 1 | [49](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/49) |
+| 50 | Wood River | 1 | [50](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/50) |
+| 51 | Nushagak River | 5 | [51](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/51) |
+| 52 | Nuyakuk River | 1 | [52](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/52) |
+| 53 | Togiak River | 1 | [53](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/53) |
+| 60 | Situk River | 5 | [60](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60) |
+| 72 | Kenai River (Chinook) | 2 | [72](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72) |
+| 73 | Jim Creek | 4 | [73](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73) |
+| 74 | McLees Lake | 2 | [74](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/74) |
+| 75 | Ninilchik River | 2 | [75](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/75) |
+| 76 | Redoubt Lake | 1 | [76](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/76) |
+| 77 | Klag Lake | 1 | [77](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/77) |
+| 78 | Lake Creek | 1 | [78](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/78) |
+| 79 | Iliuliuk River(Town Creek) | 2 | [79](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/79) |
+| 81 | Litnik Weir | 1 | [81](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/81) |
+| 88 | Upper Station Weir | 1 | [88](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/88) |
+| 89 | Ayakulik River Weir | 1 | [89](https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/89) |
