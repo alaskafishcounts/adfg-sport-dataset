@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "dataset_type": "hourly-escapement",
+  "created_date": "2025-10-01T21:22:44.857651",
+  "description": "Hourly escapement data converted to daily totals",
+  "locations": {
+    "kenai-river": {
+      "name": "kenai-river",
+      "years": [
+        2009,
+        2011
+      ],
+      "files": 2
+    }
+  },
+  "statistics": {
+    "total_locations": 1,
+    "total_files": 2,
+    "total_fish_counted": 856540
+  }
+}
