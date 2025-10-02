@@ -82,10 +82,30 @@ This repository contains data from **58+ monitoring stations** across Alaska, in
 
 ## 📊 Data Format
 
-Each JSON file contains structured fish count data:
+All files follow the ADFG standard format with consistent column structure:
 
 ```json
 {
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1939,
+      "May, 26 1939 00:00:00",
+      3,
+      410,
+      1000,
+      "Akalura Creek",
+      "Chinook"
+    ]
+  ],
   "metadata": {
     "location_id": 1,
     "location_name": "Kenai River",
@@ -94,21 +114,7 @@ Each JSON file contains structured fish count data:
     "year": 2025,
     "last_updated": "2025-01-28T10:00:00Z",
     "data_source": "ADF&G Official"
-  },
-  "data": [
-    {
-      "date": "2025-06-15",
-      "count": 1250,
-      "cumulative": 1250,
-      "notes": "Daily fish count"
-    },
-    {
-      "date": "2025-06-16", 
-      "count": 1875,
-      "cumulative": 3125,
-      "notes": "Daily fish count"
-    }
-  ]
+  }
 }
 ```
 
