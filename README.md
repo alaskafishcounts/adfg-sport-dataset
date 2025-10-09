@@ -1,20 +1,20 @@
 # 🐟 ADFG Sport Dataset
 
-**ADFG Sport Fish Count Dataset - 144 years of sport fishing data (1882-2025) across 57 locations and 6 species**
+**ADFG Sport Fish Count Dataset - 144 years of sport fishing data (1882-2025) across 64 locations and 10 species**
 
 **Official fish count data from Alaska Department of Fish & Game (ADFG) monitoring stations following AFCA Location Codes Framework**
 
 ## 📊 Dataset Statistics
-- **Total Files**: 502 (estimated based on manifest structure)
-- **Total Locations**: 57
+- **Total Files**: 3,297 JSON files
+- **Total Locations**: 64 locations with data
 - **ID Range**: 0-999 (AFCA Sport Framework)
-- **Year Range**: 1882-1885
-- **Species**: 6 (Chinook, Sockeye, Coho, Pink, Chum, Steelhead)
+- **Year Range**: 1882-2025 (144 years)
+- **Species**: 10 species (Chinook, Sockeye, Coho, Pink, Chum, Steelhead, and variants)
 - **Framework**: AFCA Location Codes Framework
 
 ## 🎯 About This Repository
 
-This repository contains official fish count data from 57 monitoring stations across Alaska, operated by the Alaska Department of Fish & Game (ADF&G). The data is organized according to the official AFCA Location Codes Framework and serves as the data source for the Alaska Fish Count App.
+This repository contains official fish count data from 64 monitoring stations across Alaska, operated by the Alaska Department of Fish & Game (ADF&G). The data is organized according to the official AFCA Location Codes Framework and serves as the data source for the Alaska Fish Count App.
 
 ### 📋 AFCA Location Codes Framework (Sport: 0-100)
 
@@ -65,9 +65,9 @@ adfg-sport-dataset/
 | 450        | Chum Salmon (Dog)     | _Oncorhynchus keta_        | Yellow/Orange |
 | 561        | Steelhead Trout       | _Oncorhynchus mykiss_      | Purple        |
 
-## 📍 Complete Location Directory (57 Locations)
+## 📍 Complete Location Directory (64 Locations)
 
-This dataset contains **57 locations** across Alaska with current sport fishing data. Each location is organized by AFCA Location Codes Framework (0-100 range).
+This dataset contains **64 locations** across Alaska with current sport fishing data. Each location is organized by AFCA Location Codes Framework (0-100 range).
 
 ### All Sport Fishing Locations
 
@@ -119,7 +119,7 @@ This dataset contains **57 locations** across Alaska with current sport fishing 
 | 52 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/52">Nuyakuk River</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/52/420">sockeye</a> |
 | 53 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/53">Togiak River</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/53/420">sockeye</a> |
 | 60 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60">Situk River</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60/410">chinook</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/60/450">chum</a> |
-| 72 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72">Kenai River (Chinook)</a> | - |
+| 72 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72">Kenai River (Chinook)</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72/411">chinook-early-run</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/72/412">chinook-late-run</a> |
 | 73 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73">Jim Creek</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73/440">pink</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/73/450">chum</a> |
 | 74 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/74">McLees Lake</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/74/420">sockeye</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/74/450">chum</a> |
 | 75 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/75">Ninilchik River</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/75/430">coho</a>, <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/75/410">chinook</a> |
@@ -132,7 +132,7 @@ This dataset contains **57 locations** across Alaska with current sport fishing 
 | 89 | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/89">Ayakulik River Weir</a> | <a href="https://github.com/alaskafishcounts/adfg-sport-dataset/tree/master/89/420">sockeye</a> |
 
 
-*This table shows all 57 locations in the sport dataset following AFCA Location Codes Framework (0-100 range). Each location folder contains species-specific subdirectories with current sport fishing data.*
+*This table shows all 64 locations in the sport dataset following AFCA Location Codes Framework (0-100 range). Each location folder contains species-specific subdirectories with current sport fishing data.*
 
 ## 📊 Data Format
 

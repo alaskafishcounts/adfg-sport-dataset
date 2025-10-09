@@ -656,15 +656,42 @@
       28,
       "Buskin River",
       "Chum"
+    ],
+    [
+      2025,
+      "September, 28 2025 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 29 2025 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2025,
+      "September, 30 2025 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
     ]
   ],
   "metadata": {
-    "location_id": "28",
+    "location_id": 28,
     "species_id": 450,
     "year": "2025",
-    "totalRecords": 72,
+    "totalRecords": 75,
     "totalCount": 34,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-26T10:30:12.359894"
+    "last_updated": "2025-10-05T12:48:31.798993"
   }
 }
