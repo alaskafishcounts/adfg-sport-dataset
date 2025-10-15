@@ -687,7 +687,79 @@
     [
       2025,
       "August, 24 2025 00:00:00",
-      3640,
+      3633,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      3500,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      3500,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      3000,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      2500,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      2000,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 30 2025 00:00:00",
+      2000,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 31 2025 00:00:00",
+      1500,
+      420,
+      33,
+      "Bear River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "September, 01 2025 00:00:00",
+      1000,
       420,
       33,
       "Bear River",
@@ -698,9 +770,9 @@
     "location_id": 33,
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 76,
-    "totalCount": 319756,
+    "totalRecords": 84,
+    "totalCount": 338749,
     "source": "ADFG JSON API",
-    "last_updated": "2025-10-14T18:20:16.794792"
+    "last_updated": "2025-10-15T01:02:14.003245"
   }
 }

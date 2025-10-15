@@ -350,15 +350,24 @@
       25,
       "Ayakulik River",
       "Pink"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      3000,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
     ]
   ],
   "metadata": {
     "location_id": 25,
     "species_id": 440,
     "year": "2025",
-    "totalRecords": 38,
-    "totalCount": 4843,
+    "totalRecords": 39,
+    "totalCount": 7843,
     "source": "ADFG JSON API",
-    "last_updated": "2025-10-14T18:20:04.588461"
+    "last_updated": "2025-10-15T01:02:02.904429"
   }
 }
