@@ -327,7 +327,7 @@
     [
       2025,
       "September, 10 2025 00:00:00",
-      27,
+      28,
       540,
       9,
       "Anchor River",
@@ -501,8 +501,8 @@
     "species_id": 540,
     "year": "2025",
     "totalRecords": 54,
-    "totalCount": 509,
+    "totalCount": 510,
     "source": "ADFG JSON API",
-    "last_updated": "2025-10-18T12:49:35.561093"
+    "last_updated": "2025-10-23T18:19:48.550086"
   }
 }
