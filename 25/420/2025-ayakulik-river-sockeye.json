@@ -714,7 +714,7 @@
     [
       2025,
       "August, 18 2025 00:00:00",
-      null,
+      30000,
       420,
       25,
       "Ayakulik River",
@@ -726,8 +726,8 @@
     "species_id": 420,
     "year": "2025",
     "totalRecords": 79,
-    "totalCount": 410986,
+    "totalCount": 440986,
     "source": "ADFG JSON API",
-    "last_updated": "2025-10-10T12:54:09.232932"
+    "last_updated": "2025-10-18T12:49:48.764544"
   }
 }
