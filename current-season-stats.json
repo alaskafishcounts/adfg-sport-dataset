@@ -1,0 +1,38 @@
+{
+  "dataset": "sport",
+  "current_season": 2026,
+  "last_updated": "2026-02-28T18:35:25.041187",
+  "statistics": {
+    "total_fish": 0,
+    "stations": 0,
+    "species": 0,
+    "locations": 0,
+    "data_points": 0,
+    "avg_daily": 0.0,
+    "goals": 0,
+    "season_totals": {},
+    "total_last_5_seasons": {
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0,
+      "2025": 0
+    },
+    "total_last_10_seasons": {
+      "2016": 0,
+      "2017": 0,
+      "2018": 0,
+      "2019": 0,
+      "2020": 0,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0,
+      "2025": 0
+    }
+  },
+  "breakdown": {
+    "by_location": {},
+    "by_species": {}
+  }
+}
