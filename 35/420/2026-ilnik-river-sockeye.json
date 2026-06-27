@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 29 2026 00:00:00",
+      null,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 30 2026 00:00:00",
+      null,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      14,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      406,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      217,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      97,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      215,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      243,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      127,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      823,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      569,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      119,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      187,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      193,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      726,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      3003,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      1660,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      507,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      510,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      255,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      590,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      349,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      353,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      1905,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      2942,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "35",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 25,
+    "totalCount": 16010,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:58.787396"
+  }
+}

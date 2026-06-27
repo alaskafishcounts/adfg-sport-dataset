@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      29,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      47,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      51,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      26,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      50,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      2205,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      629,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      195,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      481,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      877,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      183,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      725,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      14,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      35,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      575,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      118,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      2009,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "51",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 20,
+    "totalCount": 8249,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:56.913289"
+  }
+}

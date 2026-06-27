@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      7,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      30,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      11,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      36,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      13,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      37,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      47,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      21,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      10,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      17,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 12,
+    "totalCount": 231,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:59.610628"
+  }
+}

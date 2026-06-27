@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      50000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      10193,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      79327,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      8010,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      381,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      147,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      39432,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      2561,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      7750,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      71487,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      22525,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      5084,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      7683,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 13,
+    "totalCount": 304580,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:59.695879"
+  }
+}

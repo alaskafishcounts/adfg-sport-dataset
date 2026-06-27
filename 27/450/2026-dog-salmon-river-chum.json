@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      3,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "27",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 1,
+    "totalCount": 3,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:54.088497"
+  }
+}

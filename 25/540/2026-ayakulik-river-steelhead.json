@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      7,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      3,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      7,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      11,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      12,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      16,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      0,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      1,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      20,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      0,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 10,
+    "totalCount": 77,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:59.583434"
+  }
+}

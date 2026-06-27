@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      null,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      1,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "60",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 5,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:50.934334"
+  }
+}

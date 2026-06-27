@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      1,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      0,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      2,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      2,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      3,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      2,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      3,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      0,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      3,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      0,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      0,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      4,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      15,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      4,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      2,
+      540,
+      27,
+      "Dog Salmon River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "27",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 15,
+    "totalCount": 41,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:53.954017"
+  }
+}

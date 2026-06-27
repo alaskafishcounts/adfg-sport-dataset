@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      441,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      342,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      405,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      660,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      425,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      464,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      715,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      571,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      7329,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      4602,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      271,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      1928,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      6702,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      8764,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      3049,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      332,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      179,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      2720,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      8399,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      17808,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "51",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 20,
+    "totalCount": 66106,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:56.914545"
+  }
+}

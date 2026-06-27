@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      3,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "32",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 3,
+    "totalCount": 4,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:58.789313"
+  }
+}

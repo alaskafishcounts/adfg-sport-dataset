@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      null,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      68,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      26,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      33,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      64,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      23,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      33,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 7,
+    "totalCount": 247,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-06-27T16:09:56.957903"
+  }
+}
