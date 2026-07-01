@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 26 2026 00:00:00",
+      null,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 27 2026 00:00:00",
+      null,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 28 2026 00:00:00",
+      21,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 29 2026 00:00:00",
+      66,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 30 2026 00:00:00",
+      11,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      0,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      0,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      6557,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      7605,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      1893,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      1094,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      55,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      197,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      16352,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      11603,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      5835,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      3418,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      12472,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      5736,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      685,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      4131,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      7681,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      368,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      2717,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      3395,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      2502,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      1067,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      706,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      1495,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      4490,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      492,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      2721,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      2559,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      93,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      77,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      1132,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "24",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 36,
+    "totalCount": 109226,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:10.527423"
+  }
+}

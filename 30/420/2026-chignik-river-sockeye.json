@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 28 2026 00:00:00",
+      null,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 29 2026 00:00:00",
+      null,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 30 2026 00:00:00",
+      null,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      18,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      12,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      0,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      18,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      234,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      372,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      126,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      132,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      1420,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      5265,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      3066,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      2712,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      2694,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      870,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      78,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      384,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      65595,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      54910,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      42999,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      20281,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      3194,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      7575,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      15269,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      11161,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      8276,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      5412,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      10585,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      10666,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      10162,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      7866,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      2310,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "30",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 34,
+    "totalCount": 293662,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:13.728667"
+  }
+}

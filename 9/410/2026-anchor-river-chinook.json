@@ -1,0 +1,445 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 15 2026 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 16 2026 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 17 2026 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 18 2026 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 19 2026 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 20 2026 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 21 2026 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 22 2026 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 23 2026 00:00:00",
+      4,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 24 2026 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 25 2026 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 26 2026 00:00:00",
+      5,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 27 2026 00:00:00",
+      4,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 28 2026 00:00:00",
+      6,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 29 2026 00:00:00",
+      35,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 30 2026 00:00:00",
+      29,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      25,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      78,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      129,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      62,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      52,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      61,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      68,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      111,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      60,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      73,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      27,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      56,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      96,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      75,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      229,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      122,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      120,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      30,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      141,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      69,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      60,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      61,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      63,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      53,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      159,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      63,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      35,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      42,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      27,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      33,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      19,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "9",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 47,
+    "totalCount": 2393,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:05.081097"
+  }
+}

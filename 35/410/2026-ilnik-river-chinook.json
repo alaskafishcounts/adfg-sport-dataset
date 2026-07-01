@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      2,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "35",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 3,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:12.722336"
+  }
+}

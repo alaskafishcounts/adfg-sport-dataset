@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      24,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "30",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 5,
+    "totalCount": 60,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:13.390415"
+  }
+}

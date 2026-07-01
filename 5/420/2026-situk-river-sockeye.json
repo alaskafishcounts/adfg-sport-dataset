@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      18,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      6,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      23,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      8,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      2,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      9,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      12,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      null,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      null,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      null,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      375,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      215,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      686,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      102,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      113,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      750,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      851,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      2002,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      388,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      821,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      1704,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      6523,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      573,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "5",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 29,
+    "totalCount": 15194,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:05.054888"
+  }
+}

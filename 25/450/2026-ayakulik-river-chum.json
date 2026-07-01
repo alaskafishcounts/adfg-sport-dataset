@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      2,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      0,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:13.812901"
+  }
+}

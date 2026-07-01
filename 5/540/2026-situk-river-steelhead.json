@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      6,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      170,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      136,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      95,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      328,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      206,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      478,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      133,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      51,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      52,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      354,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      53,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      3,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      5,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      5,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      5,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      6,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "5",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 28,
+    "totalCount": 2094,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:05.126339"
+  }
+}

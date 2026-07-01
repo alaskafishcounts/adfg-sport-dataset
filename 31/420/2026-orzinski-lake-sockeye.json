@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      30,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      211,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      503,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      55,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      77,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      434,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      415,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      264,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      177,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      339,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      93,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "31",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 19,
+    "totalCount": 2598,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:15.444552"
+  }
+}

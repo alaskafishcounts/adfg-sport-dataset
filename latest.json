@@ -1,0 +1,2393 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-07-01T22:22:21Z",
+  "alaska_date": "2026-07-01",
+  "source": "adfg-sport-dataset-manifest+sync",
+  "season_posting": true,
+  "data_year": 2026,
+  "river_count": 53,
+  "repository": "alaskafishcounts/adfg-sport-dataset",
+  "cdn_url": "https://data.alaskafishcounts.com/gh/alaskafishcounts/adfg-sport-dataset@master/latest.json",
+  "rivers": [
+    {
+      "river": "Chignik River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 12.0,
+      "yesterday_count": 6.0,
+      "cumulative_count": 60.0,
+      "7_day_avg": 12,
+      "trend": "up",
+      "region": "Alaska Peninsula and Aleutian Islands",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "30",
+      "species_id": "410",
+      "sport_file_path": "30/410/2026-chignik-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-26",
+          "count": 12.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 24.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 12.0
+        }
+      ]
+    },
+    {
+      "river": "Chignik River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 2310.0,
+      "yesterday_count": 7866.0,
+      "cumulative_count": 293662.0,
+      "7_day_avg": 7897,
+      "trend": "down",
+      "region": "Alaska Peninsula and Aleutian Islands",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "30",
+      "species_id": "420",
+      "sport_file_path": "30/420/2026-chignik-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 8276.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 5412.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 10585.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 10666.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 10162.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 7866.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2310.0
+        }
+      ]
+    },
+    {
+      "river": "Iliuliuk River (Town Creek)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 0.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 211.0,
+      "7_day_avg": 18,
+      "trend": "flat",
+      "region": "Alaska Peninsula and Aleutian Islands",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "79",
+      "species_id": "420",
+      "sport_file_path": "79/420/2026-iliuliuk-river-town-creek-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 124.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Iliuliuk River (Town Creek)",
+      "species": "Pink Salmon (Humpback)",
+      "daily_count": 0.0,
+      "yesterday_count": 0,
+      "cumulative_count": 0.0,
+      "7_day_avg": 0,
+      "trend": "flat",
+      "region": "Alaska Peninsula and Aleutian Islands",
+      "updated_at": "2026-06-04T12:00:00Z",
+      "count_date": "2026-06-04",
+      "location_id": "79",
+      "species_id": "440",
+      "sport_file_path": "79/440/2026-iliuliuk-river-town-creek-pink.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-04",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Nushagak River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 4182.0,
+      "yesterday_count": 1287.0,
+      "cumulative_count": 22619.0,
+      "7_day_avg": 2357,
+      "trend": "up",
+      "region": "Bristol Bay",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "51",
+      "species_id": "410",
+      "sport_file_path": "51/410/2026-nushagak-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 118.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 2009.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 761.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1414.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 6726.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 1287.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 4182.0
+        }
+      ]
+    },
+    {
+      "river": "Nushagak River",
+      "species": "Chum Salmon (Dog)",
+      "daily_count": 977.0,
+      "yesterday_count": 7977.0,
+      "cumulative_count": 140124.0,
+      "7_day_avg": 14318,
+      "trend": "down",
+      "region": "Bristol Bay",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "51",
+      "species_id": "450",
+      "sport_file_path": "51/450/2026-nushagak-river-chum.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 8399.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 17808.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 24591.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 31362.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 9111.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 7977.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 977.0
+        }
+      ]
+    },
+    {
+      "river": "Nushagak River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 217315.0,
+      "yesterday_count": 269161.0,
+      "cumulative_count": 2513391.0,
+      "7_day_avg": 324913,
+      "trend": "down",
+      "region": "Bristol Bay",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "51",
+      "species_id": "420",
+      "sport_file_path": "51/420/2026-nushagak-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 116974.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 201584.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 276304.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 406464.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 786587.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 269161.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 217315.0
+        }
+      ]
+    },
+    {
+      "river": "Afognak River (Litnik)",
+      "species": "Steelhead Trout",
+      "daily_count": 1.0,
+      "yesterday_count": 2.0,
+      "cumulative_count": 23.0,
+      "7_day_avg": 0,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "23",
+      "species_id": "540",
+      "sport_file_path": "23/540/2026-afognak-river-litnik-steelhead.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Afognak River (Litnik)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 682.0,
+      "yesterday_count": 973.0,
+      "cumulative_count": 24281.0,
+      "7_day_avg": 900,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "23",
+      "species_id": "420",
+      "sport_file_path": "23/420/2026-afognak-river-litnik-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 716.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 219.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1630.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 999.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 1078.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 973.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 682.0
+        }
+      ]
+    },
+    {
+      "river": "Ayakulik River",
+      "species": "Steelhead Trout",
+      "daily_count": 1.0,
+      "yesterday_count": 13.0,
+      "cumulative_count": 154.0,
+      "7_day_avg": 10,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "25",
+      "species_id": "540",
+      "sport_file_path": "25/540/2026-ayakulik-river-steelhead.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 8.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 25.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 22.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 13.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Ayakulik River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 10.0,
+      "yesterday_count": 29.0,
+      "cumulative_count": 493.0,
+      "7_day_avg": 35,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "25",
+      "species_id": "410",
+      "sport_file_path": "25/410/2026-ayakulik-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 89.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 56.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 44.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 13.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 29.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 10.0
+        }
+      ]
+    },
+    {
+      "river": "Ayakulik River",
+      "species": "Chum Salmon (Dog)",
+      "daily_count": 0.0,
+      "yesterday_count": 2.0,
+      "cumulative_count": 2.0,
+      "7_day_avg": 1,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "25",
+      "species_id": "450",
+      "sport_file_path": "25/450/2026-ayakulik-river-chum.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-29",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Ayakulik River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 5230.0,
+      "yesterday_count": 13066.0,
+      "cumulative_count": 454450.0,
+      "7_day_avg": 21041,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "25",
+      "species_id": "420",
+      "sport_file_path": "25/420/2026-ayakulik-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 50764.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 41112.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 21238.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 14940.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 937.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 13066.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 5230.0
+        }
+      ]
+    },
+    {
+      "river": "Ayakulik River",
+      "species": "Pink Salmon (Humpback)",
+      "daily_count": 1.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 16.0,
+      "7_day_avg": 3,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-29T12:00:00Z",
+      "count_date": "2026-06-29",
+      "location_id": "25",
+      "species_id": "440",
+      "sport_file_path": "25/440/2026-ayakulik-river-pink.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Bear River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 4725.0,
+      "yesterday_count": 4522.0,
+      "cumulative_count": 50727.0,
+      "7_day_avg": 4710,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "33",
+      "species_id": "420",
+      "sport_file_path": "33/420/2026-bear-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 3889.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3935.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 5595.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 5394.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 4913.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 4522.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 4725.0
+        }
+      ]
+    },
+    {
+      "river": "Buskin River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 180.0,
+      "yesterday_count": 240.0,
+      "cumulative_count": 1585.0,
+      "7_day_avg": 146,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-26T12:00:00Z",
+      "count_date": "2026-06-26",
+      "location_id": "28",
+      "species_id": "420",
+      "sport_file_path": "28/420/2026-buskin-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-20",
+          "count": 241.0
+        },
+        {
+          "date": "2026-06-21",
+          "count": 113.0
+        },
+        {
+          "date": "2026-06-22",
+          "count": 72.0
+        },
+        {
+          "date": "2026-06-23",
+          "count": 16.0
+        },
+        {
+          "date": "2026-06-24",
+          "count": 161.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 240.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 180.0
+        }
+      ]
+    },
+    {
+      "river": "Dog Salmon River",
+      "species": "Steelhead Trout",
+      "daily_count": 1.0,
+      "yesterday_count": 4.0,
+      "cumulative_count": 62.0,
+      "7_day_avg": 3,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "27",
+      "species_id": "540",
+      "sport_file_path": "27/540/2026-dog-salmon-river-steelhead.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 4.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Dog Salmon River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 1.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 8.0,
+      "7_day_avg": 1,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "27",
+      "species_id": "410",
+      "sport_file_path": "27/410/2026-dog-salmon-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Dog Salmon River",
+      "species": "Chum Salmon (Dog)",
+      "daily_count": 2.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 12.0,
+      "7_day_avg": 1,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "27",
+      "species_id": "450",
+      "sport_file_path": "27/450/2026-dog-salmon-river-chum.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2.0
+        }
+      ]
+    },
+    {
+      "river": "Dog Salmon River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 1988.0,
+      "yesterday_count": 1806.0,
+      "cumulative_count": 39381.0,
+      "7_day_avg": 2958,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "27",
+      "species_id": "420",
+      "sport_file_path": "27/420/2026-dog-salmon-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 474.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 2568.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 10074.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 2645.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 1149.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 1806.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1988.0
+        }
+      ]
+    },
+    {
+      "river": "Ilnik River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 0.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 2.0,
+      "7_day_avg": 1,
+      "trend": "flat",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "35",
+      "species_id": "410",
+      "sport_file_path": "35/410/2026-ilnik-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-27",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Ilnik River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 2703.0,
+      "yesterday_count": 4533.0,
+      "cumulative_count": 36714.0,
+      "7_day_avg": 2846,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "35",
+      "species_id": "420",
+      "sport_file_path": "35/420/2026-ilnik-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 734.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 1833.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 984.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1566.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 7567.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 4533.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2703.0
+        }
+      ]
+    },
+    {
+      "river": "Karluk River",
+      "species": "Steelhead Trout",
+      "daily_count": 12.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 804.0,
+      "7_day_avg": 20,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "24",
+      "species_id": "540",
+      "sport_file_path": "24/540/2026-karluk-river-steelhead.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 69.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 15.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 15.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 20.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 12.0
+        }
+      ]
+    },
+    {
+      "river": "Karluk River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 7.0,
+      "yesterday_count": 1.0,
+      "cumulative_count": 262.0,
+      "7_day_avg": 17,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "24",
+      "species_id": "410",
+      "sport_file_path": "24/410/2026-karluk-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 26.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 7.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 31.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 48.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 7.0
+        }
+      ]
+    },
+    {
+      "river": "Karluk River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 1132.0,
+      "yesterday_count": 77.0,
+      "cumulative_count": 109226.0,
+      "7_day_avg": 1652,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "24",
+      "species_id": "420",
+      "sport_file_path": "24/420/2026-karluk-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 4490.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 492.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 2721.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 2559.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 93.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 77.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1132.0
+        }
+      ]
+    },
+    {
+      "river": "Karluk River",
+      "species": "Pink Salmon (Humpback)",
+      "daily_count": 4.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 7.0,
+      "7_day_avg": 2,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "24",
+      "species_id": "440",
+      "sport_file_path": "24/440/2026-karluk-river-pink.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-28",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 4.0
+        }
+      ]
+    },
+    {
+      "river": "Nelson River (Sapsuk)",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 56.0,
+      "yesterday_count": 51.0,
+      "cumulative_count": 111.0,
+      "7_day_avg": 22,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "32",
+      "species_id": "410",
+      "sport_file_path": "32/410/2026-nelson-river-sapsuk-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-15",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-16",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-17",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 51.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 56.0
+        }
+      ]
+    },
+    {
+      "river": "Nelson River (Sapsuk)",
+      "species": "Chum Salmon (Dog)",
+      "daily_count": 1.0,
+      "yesterday_count": 2.0,
+      "cumulative_count": 3.0,
+      "7_day_avg": 2,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "32",
+      "species_id": "450",
+      "sport_file_path": "32/450/2026-nelson-river-sapsuk-chum.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-29",
+          "count": 2.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Nelson River (Sapsuk)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 7234.0,
+      "yesterday_count": 5133.0,
+      "cumulative_count": 46304.0,
+      "7_day_avg": 5082,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "32",
+      "species_id": "420",
+      "sport_file_path": "32/420/2026-nelson-river-sapsuk-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 4205.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3771.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 4529.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 4465.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 6236.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 5133.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 7234.0
+        }
+      ]
+    },
+    {
+      "river": "Nelson River (Sapsuk)",
+      "species": "Pink Salmon (Humpback)",
+      "daily_count": 1.0,
+      "yesterday_count": 0,
+      "cumulative_count": 1.0,
+      "7_day_avg": 1,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "32",
+      "species_id": "440",
+      "sport_file_path": "32/440/2026-nelson-river-sapsuk-pink.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Olga Creek (Upper Station)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 1500.0,
+      "yesterday_count": 475.0,
+      "cumulative_count": 97280.0,
+      "7_day_avg": 547,
+      "trend": "up",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "26",
+      "species_id": "420",
+      "sport_file_path": "26/420/2026-olga-creek-upper-station-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 1208.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 375.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 201.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 66.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 475.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1500.0
+        }
+      ]
+    },
+    {
+      "river": "Orzinski Lake",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 93.0,
+      "yesterday_count": 339.0,
+      "cumulative_count": 2598.0,
+      "7_day_avg": 257,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "31",
+      "species_id": "420",
+      "sport_file_path": "31/420/2026-orzinski-lake-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 77.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 434.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 415.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 264.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 177.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 339.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 93.0
+        }
+      ]
+    },
+    {
+      "river": "Pasagshak River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 0.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 1.0,
+      "7_day_avg": 0,
+      "trend": "flat",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "60",
+      "species_id": "420",
+      "sport_file_path": "60/420/2026-pasagshak-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Saltery Creek",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 109.0,
+      "yesterday_count": 204.0,
+      "cumulative_count": 1307.0,
+      "7_day_avg": 144,
+      "trend": "down",
+      "region": "Kodiak",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "29",
+      "species_id": "420",
+      "sport_file_path": "29/420/2026-saltery-creek-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 36.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 17.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 183.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 265.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 195.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 204.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 109.0
+        }
+      ]
+    },
+    {
+      "river": "Anchor River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 19.0,
+      "yesterday_count": 33.0,
+      "cumulative_count": 2393.0,
+      "7_day_avg": 54,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "9",
+      "species_id": "410",
+      "sport_file_path": "9/410/2026-anchor-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 159.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 63.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 35.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 42.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 27.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 33.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 19.0
+        }
+      ]
+    },
+    {
+      "river": "Coghill River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 133.0,
+      "yesterday_count": 87.0,
+      "cumulative_count": 1947.0,
+      "7_day_avg": 225,
+      "trend": "up",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "7",
+      "species_id": "420",
+      "sport_file_path": "7/420/2026-coghill-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 127.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 133.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 560.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 201.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 335.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 87.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 133.0
+        }
+      ]
+    },
+    {
+      "river": "Copper River (Miles Lake)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 13693.0,
+      "yesterday_count": 14715.0,
+      "cumulative_count": 340758.0,
+      "7_day_avg": 10355,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "39",
+      "species_id": "420",
+      "sport_file_path": "39/420/2026-copper-river-miles-lake-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 6494.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 6129.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 7337.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 9923.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 14192.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 14715.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 13693.0
+        }
+      ]
+    },
+    {
+      "river": "Crooked Creek",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 1.0,
+      "yesterday_count": 12.0,
+      "cumulative_count": 63.0,
+      "7_day_avg": 8,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "15",
+      "species_id": "410",
+      "sport_file_path": "15/410/2026-crooked-creek-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 18.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 15.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 12.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Deshka River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 2.0,
+      "yesterday_count": 278.0,
+      "cumulative_count": 5563.0,
+      "7_day_avg": 292,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "17",
+      "species_id": "410",
+      "sport_file_path": "17/410/2026-deshka-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 618.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 215.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 324.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 204.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 404.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 278.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2.0
+        }
+      ]
+    },
+    {
+      "river": "Deshka River",
+      "species": "Chum Salmon (Dog)",
+      "daily_count": 1.0,
+      "yesterday_count": 0,
+      "cumulative_count": 1.0,
+      "7_day_avg": 1,
+      "trend": "up",
+      "region": "Southcentral",
+      "updated_at": "2026-06-20T12:00:00Z",
+      "count_date": "2026-06-20",
+      "location_id": "17",
+      "species_id": "450",
+      "sport_file_path": "17/450/2026-deshka-river-chum.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-20",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Gulkana River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 6.0,
+      "yesterday_count": 24.0,
+      "cumulative_count": 702.0,
+      "7_day_avg": 27,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "6",
+      "species_id": "410",
+      "sport_file_path": "6/410/2026-gulkana-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 36.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 30.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 90.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 24.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 6.0
+        }
+      ]
+    },
+    {
+      "river": "Gulkana River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 0.0,
+      "yesterday_count": 6.0,
+      "cumulative_count": 4236.0,
+      "7_day_avg": 46,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "6",
+      "species_id": "420",
+      "sport_file_path": "6/420/2026-gulkana-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 24.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 42.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 54.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 138.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 60.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 6.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Kasilof River (Sockeye)",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 10464.0,
+      "yesterday_count": 17491.0,
+      "cumulative_count": 233543.0,
+      "7_day_avg": 16554,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "41",
+      "species_id": "420",
+      "sport_file_path": "41/420/2026-kasilof-river-sockeye-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 20535.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 13713.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 15311.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 17918.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 20446.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 17491.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 10464.0
+        }
+      ]
+    },
+    {
+      "river": "Kenai River (Chinook)",
+      "species": "Chinook \u2013 Early Run",
+      "daily_count": 36.0,
+      "yesterday_count": 72.0,
+      "cumulative_count": 1499.0,
+      "7_day_avg": 53,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "72",
+      "species_id": "411",
+      "sport_file_path": "72/411/2026-kenai-river-chinook-early-run.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": true,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 69.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 36.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 54.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 42.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 60.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 72.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 36.0
+        }
+      ]
+    },
+    {
+      "river": "Lake Creek",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 39.0,
+      "yesterday_count": 48.0,
+      "cumulative_count": 470.0,
+      "7_day_avg": 37,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-29T12:00:00Z",
+      "count_date": "2026-06-29",
+      "location_id": "78",
+      "species_id": "410",
+      "sport_file_path": "78/410/2026-lake-creek-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-23",
+          "count": 15.0
+        },
+        {
+          "date": "2026-06-24",
+          "count": 18.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 19.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 115.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 48.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 39.0
+        }
+      ]
+    },
+    {
+      "river": "Little Susitna River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 3.0,
+      "yesterday_count": 3.0,
+      "cumulative_count": 67.0,
+      "7_day_avg": 2,
+      "trend": "flat",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "16",
+      "species_id": "410",
+      "sport_file_path": "16/410/2026-little-susitna-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 7.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 3.0
+        }
+      ]
+    },
+    {
+      "river": "Little Susitna River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 1.0,
+      "yesterday_count": 0.0,
+      "cumulative_count": 57.0,
+      "7_day_avg": 1,
+      "trend": "up",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "16",
+      "species_id": "420",
+      "sport_file_path": "16/420/2026-little-susitna-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 1.0
+        }
+      ]
+    },
+    {
+      "river": "Ninilchik River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 7.0,
+      "yesterday_count": 33.0,
+      "cumulative_count": 674.0,
+      "7_day_avg": 13,
+      "trend": "down",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "75",
+      "species_id": "410",
+      "sport_file_path": "75/410/2026-ninilchik-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 4.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 4.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 7.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 32.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 33.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 7.0
+        }
+      ]
+    },
+    {
+      "river": "Russian River",
+      "species": "Sockeye \u2013 Early Run",
+      "daily_count": 626.0,
+      "yesterday_count": 601.0,
+      "cumulative_count": 31774.0,
+      "7_day_avg": 1051,
+      "trend": "up",
+      "region": "Southcentral",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "13",
+      "species_id": "421",
+      "sport_file_path": "13/421/2026-russian-river-sockeye-early-run.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 1106.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 1347.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1531.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1448.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 696.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 601.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 626.0
+        }
+      ]
+    },
+    {
+      "river": "Redoubt Lake",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 3372.0,
+      "yesterday_count": 903.0,
+      "cumulative_count": 11163.0,
+      "7_day_avg": 1361,
+      "trend": "up",
+      "region": "Southeast",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "76",
+      "species_id": "420",
+      "sport_file_path": "76/420/2026-redoubt-lake-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 1277.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 462.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 798.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 2192.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 522.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 903.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 3372.0
+        }
+      ]
+    },
+    {
+      "river": "Situk River",
+      "species": "Steelhead Trout",
+      "daily_count": 6.0,
+      "yesterday_count": 5.0,
+      "cumulative_count": 2094.0,
+      "7_day_avg": 4,
+      "trend": "up",
+      "region": "Southeast",
+      "updated_at": "2026-06-29T12:00:00Z",
+      "count_date": "2026-06-29",
+      "location_id": "5",
+      "species_id": "540",
+      "sport_file_path": "5/540/2026-situk-river-steelhead.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-23",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-24",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 6.0
+        }
+      ]
+    },
+    {
+      "river": "Situk River",
+      "species": "Chinook Salmon (King)",
+      "daily_count": 0.0,
+      "yesterday_count": 12.0,
+      "cumulative_count": 82.0,
+      "7_day_avg": 8,
+      "trend": "down",
+      "region": "Southeast",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "5",
+      "species_id": "410",
+      "sport_file_path": "5/410/2026-situk-river-chinook.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 5.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 3.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 4.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 0.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 33.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 12.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 0.0
+        }
+      ]
+    },
+    {
+      "river": "Situk River",
+      "species": "Sockeye Salmon (Red)",
+      "daily_count": 5.0,
+      "yesterday_count": 573.0,
+      "cumulative_count": 15194.0,
+      "7_day_avg": 1717,
+      "trend": "down",
+      "region": "Southeast",
+      "updated_at": "2026-06-30T12:00:00Z",
+      "count_date": "2026-06-30",
+      "location_id": "5",
+      "species_id": "420",
+      "sport_file_path": "5/420/2026-situk-river-sockeye.json",
+      "data_source": "adfg-sport-dataset-manifest",
+      "data_year": 2026,
+      "has_negative_day": false,
+      "series": [
+        {
+          "date": "2026-06-24",
+          "count": 2002.0
+        },
+        {
+          "date": "2026-06-25",
+          "count": 388.0
+        },
+        {
+          "date": "2026-06-26",
+          "count": 821.0
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1704.0
+        },
+        {
+          "date": "2026-06-28",
+          "count": 6523.0
+        },
+        {
+          "date": "2026-06-29",
+          "count": 573.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 5.0
+        }
+      ]
+    }
+  ]
+}

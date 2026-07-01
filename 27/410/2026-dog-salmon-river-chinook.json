@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      3,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "27",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 14,
+    "totalCount": 8,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:08.192642"
+  }
+}

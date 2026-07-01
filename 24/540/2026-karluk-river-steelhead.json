@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 28 2026 00:00:00",
+      2,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "May, 29 2026 00:00:00",
+      9,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "May, 30 2026 00:00:00",
+      15,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      0,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      0,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      29,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      29,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      7,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      9,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      103,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      6,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      44,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      76,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      7,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      46,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      30,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      4,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      13,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      7,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      5,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      15,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      50,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      11,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      62,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      37,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      25,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      26,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      69,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      6,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      15,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      15,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      20,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      0,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      12,
+      540,
+      24,
+      "Karluk River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "24",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 34,
+    "totalCount": 804,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-01T22:22:10.410899"
+  }
+}
