@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      3,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      51,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      56,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      65,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      94,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      60,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      86,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      49,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      60,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      81,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      69,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      116,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      89,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      83,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      61,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      49,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      66,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      67,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      25,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      17,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      112,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      31,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      38,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      90,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      74,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "32",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 27,
+    "totalCount": 1593,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:03.717606"
+  }
+}

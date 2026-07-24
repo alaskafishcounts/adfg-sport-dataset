@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      24,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      24,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      24,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      48,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      32,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      92,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      43,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      8,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      54,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      42,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      66,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      84,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      60,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      103,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      66,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      120,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "30",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 27,
+    "totalCount": 1094,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:04.559310"
+  }
+}

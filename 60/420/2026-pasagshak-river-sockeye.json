@@ -1,0 +1,337 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      null,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      1,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      218,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      74,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      178,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      6,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      54,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      50,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      238,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      30,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "60",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 35,
+    "totalCount": 849,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:53.778942"
+  }
+}

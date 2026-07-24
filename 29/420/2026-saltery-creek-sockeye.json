@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      null,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      68,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      26,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      33,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      64,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      23,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      33,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      51,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      36,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      17,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      183,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      265,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      195,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      204,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      109,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      15,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      0,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      44,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      200,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      40,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      676,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      1082,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      586,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      142,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      12,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      62,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      245,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      869,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      490,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      634,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      0,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      174,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      42,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      121,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      64,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      36,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      20,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      38,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 38,
+    "totalCount": 6899,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:59.841907"
+  }
+}

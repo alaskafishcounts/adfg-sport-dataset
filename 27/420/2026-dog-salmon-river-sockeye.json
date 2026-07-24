@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "May, 31 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 01 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 02 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 03 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      null,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      7279,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      1555,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      279,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      672,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      1873,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      6019,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      1000,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      474,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      2568,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      10074,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      2645,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      1149,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      1806,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      1988,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      1011,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      1991,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      5533,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      2351,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      4417,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      10973,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      1960,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      1990,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      3069,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      1839,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      1355,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      3058,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      1011,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      1778,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      1613,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      3048,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      979,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      4511,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      1121,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      897,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "27",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 49,
+    "totalCount": 93886,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:58.868931"
+  }
+}

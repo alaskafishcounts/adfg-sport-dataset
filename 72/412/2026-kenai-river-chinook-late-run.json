@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      42,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      78,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      78,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      78,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      84,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      60,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      48,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      108,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      174,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      228,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      102,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      168,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      303,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      193,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      241,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      157,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      122,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      111,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      150,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      151,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      186,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      211,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": "72",
+    "species_id": "412",
+    "year": "2026",
+    "totalRecords": 22,
+    "totalCount": 3073,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:58.748098"
+  }
+}

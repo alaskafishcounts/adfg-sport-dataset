@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      6,
+      450,
+      30,
+      "Chignik River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      450,
+      30,
+      "Chignik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "30",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 2,
+    "totalCount": 6,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:04.673305"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 04 2026 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "79",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:59.731385"
+  }
+}

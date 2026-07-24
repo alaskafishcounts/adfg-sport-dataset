@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      11,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      9,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      47,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      7,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      14,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      5,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      15,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "24",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 24,
+    "totalCount": 135,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:58.488443"
+  }
+}

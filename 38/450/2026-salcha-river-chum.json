@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      0,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      0,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      0,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      null,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      12,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      3,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      22,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      10,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      3,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      12,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      141,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      126,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      81,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      81,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      186,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "38",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 15,
+    "totalCount": 677,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:03.996451"
+  }
+}

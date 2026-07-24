@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      113,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      81,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      142,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      178,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      476,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      192,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      11,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      895,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      304,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      730,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      2124,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      477,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      2800,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      842,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      1305,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      3731,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      1601,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      109,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      675,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      974,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "21",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 22,
+    "totalCount": 17760,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:57.109528"
+  }
+}

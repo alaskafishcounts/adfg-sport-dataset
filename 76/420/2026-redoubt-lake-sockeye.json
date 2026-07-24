@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      4,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      92,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      131,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      699,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      711,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      1277,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      462,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      798,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      2192,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      522,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      903,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      3566,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      435,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      1217,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      2337,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      7989,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      2500,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      1322,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      44,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      679,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      1581,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      1079,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      1786,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      2165,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      1991,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      2174,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      1890,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      1354,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      4825,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      376,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "76",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 33,
+    "totalCount": 47101,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:54.336100"
+  }
+}

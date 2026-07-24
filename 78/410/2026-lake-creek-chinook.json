@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      0,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      12,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      0,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      0,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      3,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      9,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      6,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      45,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      72,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      21,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      30,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      15,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      15,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      18,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      3,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      19,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      115,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      48,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      39,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      24,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      12,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      30,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      147,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      436,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      156,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      96,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      235,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      217,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      34,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      9,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      33,
+      410,
+      78,
+      "Lake Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "78",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 31,
+    "totalCount": 1899,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:01.701152"
+  }
+}

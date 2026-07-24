@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      50000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      10193,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      79327,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      8010,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      381,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      147,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      39432,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      2561,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      7750,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      71487,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      22525,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      5084,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      7683,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      2583,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      50764,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      41112,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      21238,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      14940,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      937,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      13066,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      5230,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      7943,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      159,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      3983,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      2500,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      3135,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      4750,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      5232,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      124,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 43,
+    "totalCount": 494776,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:54.204987"
+  }
+}

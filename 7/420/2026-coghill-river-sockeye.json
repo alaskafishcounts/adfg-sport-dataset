@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      14,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      7,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      16,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      42,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      67,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      223,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      127,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      133,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      560,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      201,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      335,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      87,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      418,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      158,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      356,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      627,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      399,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      451,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      136,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      162,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      462,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      161,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      184,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      231,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      573,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      718,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      27,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "7",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 43,
+    "totalCount": 6877,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:01.792250"
+  }
+}

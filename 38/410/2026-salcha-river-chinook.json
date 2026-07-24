@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      23,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      57,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      36,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      null,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      42,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      72,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      56,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      135,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      153,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      152,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      105,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      102,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      129,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      147,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      123,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "38",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 15,
+    "totalCount": 1332,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:03.981040"
+  }
+}

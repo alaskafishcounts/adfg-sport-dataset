@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      399,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      719,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      678,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      724,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      758,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      901,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      637,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      772,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": "13",
+    "species_id": "422",
+    "year": "2026",
+    "totalRecords": 8,
+    "totalCount": 5588,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:54.077978"
+  }
+}

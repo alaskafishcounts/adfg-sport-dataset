@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      5417,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      3598,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      7651,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      10893,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      7729,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      5024,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      6708,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      9028,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      12048,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      11080,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      10139,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      8277,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      9637,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      13100,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      9366,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      9705,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      14545,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      15995,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      23584,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      17231,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      18040,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      11603,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "40",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 22,
+    "totalCount": 240398,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:54.303752"
+  }
+}

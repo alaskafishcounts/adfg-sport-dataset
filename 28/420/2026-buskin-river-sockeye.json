@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 05 2026 00:00:00",
+      0,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      7,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      0,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      254,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      71,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      18,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      4,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      12,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      19,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      42,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      46,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      3,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      70,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      15,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      1,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      241,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      113,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      72,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      16,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      161,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      240,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      180,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "28",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 22,
+    "totalCount": 1585,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:33:57.160088"
+  }
+}

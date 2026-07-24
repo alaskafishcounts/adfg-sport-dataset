@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      4,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      3,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      3,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      3,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      2,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 19,
+    "totalCount": 18,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-07-24T08:34:00.856406"
+  }
+}
