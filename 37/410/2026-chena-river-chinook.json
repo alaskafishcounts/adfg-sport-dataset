@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      12,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      7,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      15,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      9,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      45,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      35,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      75,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      21,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      37,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      50,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      66,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      63,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      90,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      61,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      99,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      54,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      78,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      108,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      106,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      72,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 23 2026 00:00:00",
+      57,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 24 2026 00:00:00",
+      54,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 25 2026 00:00:00",
+      32,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 26 2026 00:00:00",
+      null,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      51,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      41,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      9,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      45,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      21,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      34,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      12,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      21,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      33,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "37",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 36,
+    "totalCount": 1513,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:46.321779"
+  }
+}

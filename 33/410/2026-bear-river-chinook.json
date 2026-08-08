@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 25 2026 00:00:00",
+      1,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 26 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      1,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "33",
+    "species_id": "410",
+    "year": "2026",
+    "totalRecords": 13,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:48.581181"
+  }
+}

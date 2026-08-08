@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      3,
+      450,
+      24,
+      "Karluk River",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      6,
+      450,
+      24,
+      "Karluk River",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      3,
+      450,
+      24,
+      "Karluk River",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      2,
+      450,
+      24,
+      "Karluk River",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      1,
+      450,
+      24,
+      "Karluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "24",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 5,
+    "totalCount": 15,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:44.389521"
+  }
+}

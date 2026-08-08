@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      1,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      5,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      14,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      12,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      59,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 23 2026 00:00:00",
+      216,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 24 2026 00:00:00",
+      190,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 25 2026 00:00:00",
+      13,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 26 2026 00:00:00",
+      82,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      7,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      31,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      54,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      33,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      61,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      65,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      25,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      19,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      8,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      12,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      23,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 29,
+    "totalCount": 930,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:48.055186"
+  }
+}

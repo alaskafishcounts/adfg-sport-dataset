@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      2,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      0,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      1,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      2,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      2,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      0,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      5,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      0,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "9",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 8,
+    "totalCount": 12,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:51.179525"
+  }
+}

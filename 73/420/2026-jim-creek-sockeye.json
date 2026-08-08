@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 23 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 24 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 25 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 26 2026 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      14,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      9,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      77,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      23,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      77,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      193,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      285,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      56,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      11,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "73",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 17,
+    "totalCount": 748,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:46.890289"
+  }
+}

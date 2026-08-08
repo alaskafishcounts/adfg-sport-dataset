@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      30,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      19,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      17,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      43,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      17,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      9,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      89,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      70,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "16",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 8,
+    "totalCount": 294,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:51.631584"
+  }
+}

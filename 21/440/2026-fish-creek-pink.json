@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      2,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      2,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      3,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      10,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      6,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      96,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      47,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      21,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      71,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      53,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "21",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 11,
+    "totalCount": 311,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:43.935902"
+  }
+}

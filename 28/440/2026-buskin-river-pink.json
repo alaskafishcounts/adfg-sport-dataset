@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      179,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "28",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 1,
+    "totalCount": 179,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-08T15:34:43.660467"
+  }
+}
