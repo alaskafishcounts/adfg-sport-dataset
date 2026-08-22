@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      8,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      18,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      2,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "23",
+    "species_id": "430",
+    "year": "2026",
+    "totalRecords": 5,
+    "totalCount": 29,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-22T15:26:17.817323"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      179,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      3245,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      1847,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 09 2026 00:00:00",
+      22839,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 10 2026 00:00:00",
+      21836,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 11 2026 00:00:00",
+      17071,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 12 2026 00:00:00",
+      15467,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 13 2026 00:00:00",
+      42734,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      4295,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      4571,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      7460,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 17 2026 00:00:00",
+      3228,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      4853,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      6973,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "28",
+    "species_id": "440",
+    "year": "2026",
+    "totalRecords": 14,
+    "totalCount": 156598,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-22T15:26:20.522038"
+  }
+}

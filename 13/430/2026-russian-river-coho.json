@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      8,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 17 2026 00:00:00",
+      14,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      29,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "13",
+    "species_id": "430",
+    "year": "2026",
+    "totalRecords": 5,
+    "totalCount": 57,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-08-22T15:26:20.717046"
+  }
+}
