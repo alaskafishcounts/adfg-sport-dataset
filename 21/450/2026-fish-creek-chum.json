@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 09 2026 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 10 2026 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 11 2026 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      4,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      6,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 21 2026 00:00:00",
+      16,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 22 2026 00:00:00",
+      27,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 23 2026 00:00:00",
+      12,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 24 2026 00:00:00",
+      null,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 29 2026 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      5,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      14,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2026,
+      "September, 03 2026 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "21",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 18,
+    "totalCount": 97,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-05T20:09:00.533993"
+  }
+}

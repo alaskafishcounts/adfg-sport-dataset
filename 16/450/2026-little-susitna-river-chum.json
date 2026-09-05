@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      5,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      6,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      8,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      6,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      12,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      7,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      350,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      408,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      622,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      962,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      381,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      215,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      581,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      598,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      542,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      286,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 09 2026 00:00:00",
+      341,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 10 2026 00:00:00",
+      258,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 11 2026 00:00:00",
+      39,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 12 2026 00:00:00",
+      34,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 13 2026 00:00:00",
+      12,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      65,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      27,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      11,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      27,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      17,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 20 2026 00:00:00",
+      35,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 21 2026 00:00:00",
+      22,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 22 2026 00:00:00",
+      8,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 23 2026 00:00:00",
+      14,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 24 2026 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 25 2026 00:00:00",
+      7,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 26 2026 00:00:00",
+      13,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 27 2026 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 29 2026 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "August, 31 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "September, 02 2026 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2026,
+      "September, 03 2026 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "16",
+    "species_id": "450",
+    "year": "2026",
+    "totalRecords": 45,
+    "totalCount": 5928,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-05T20:09:06.798379"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      8,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 17 2026 00:00:00",
+      14,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      29,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      35,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 20 2026 00:00:00",
+      47,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 21 2026 00:00:00",
+      66,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 22 2026 00:00:00",
+      29,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 23 2026 00:00:00",
+      37,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 24 2026 00:00:00",
+      36,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 25 2026 00:00:00",
+      43,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 26 2026 00:00:00",
+      59,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 27 2026 00:00:00",
+      55,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 28 2026 00:00:00",
+      43,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 29 2026 00:00:00",
+      57,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      51,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 31 2026 00:00:00",
+      53,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      78,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "13",
+    "species_id": "430",
+    "year": "2026",
+    "totalRecords": 19,
+    "totalCount": 746,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-05T20:09:00.775441"
+  }
+}

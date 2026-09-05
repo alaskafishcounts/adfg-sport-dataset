@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 27 2026 00:00:00",
+      9,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      112,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      15,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      3,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      3,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      174,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      202,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      993,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      155,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      168,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      32,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      261,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 09 2026 00:00:00",
+      127,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 10 2026 00:00:00",
+      107,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 11 2026 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 12 2026 00:00:00",
+      57,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 13 2026 00:00:00",
+      8,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      16,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      131,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      282,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 17 2026 00:00:00",
+      1583,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      147,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      256,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 20 2026 00:00:00",
+      469,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 21 2026 00:00:00",
+      2322,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 22 2026 00:00:00",
+      668,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 23 2026 00:00:00",
+      864,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 24 2026 00:00:00",
+      591,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 25 2026 00:00:00",
+      516,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 26 2026 00:00:00",
+      286,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 27 2026 00:00:00",
+      288,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 28 2026 00:00:00",
+      339,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 29 2026 00:00:00",
+      1212,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      352,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "August, 31 2026 00:00:00",
+      1647,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      330,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "September, 02 2026 00:00:00",
+      139,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "8",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 38,
+    "totalCount": 14900,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-05T20:09:06.630389"
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "July, 28 2026 00:00:00",
+      7,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "July, 29 2026 00:00:00",
+      3,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "July, 30 2026 00:00:00",
+      41,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "July, 31 2026 00:00:00",
+      27,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 01 2026 00:00:00",
+      21,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 02 2026 00:00:00",
+      4,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 03 2026 00:00:00",
+      2,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 04 2026 00:00:00",
+      8,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 05 2026 00:00:00",
+      4,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 06 2026 00:00:00",
+      4,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 07 2026 00:00:00",
+      4,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 08 2026 00:00:00",
+      5,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 09 2026 00:00:00",
+      34,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 10 2026 00:00:00",
+      29,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 11 2026 00:00:00",
+      23,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 12 2026 00:00:00",
+      9,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 13 2026 00:00:00",
+      11,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 14 2026 00:00:00",
+      27,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 15 2026 00:00:00",
+      12,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 16 2026 00:00:00",
+      62,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 17 2026 00:00:00",
+      67,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 18 2026 00:00:00",
+      102,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 19 2026 00:00:00",
+      144,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 20 2026 00:00:00",
+      134,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 21 2026 00:00:00",
+      122,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 22 2026 00:00:00",
+      148,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 23 2026 00:00:00",
+      89,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 24 2026 00:00:00",
+      206,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 25 2026 00:00:00",
+      298,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 26 2026 00:00:00",
+      218,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 27 2026 00:00:00",
+      141,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 28 2026 00:00:00",
+      286,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 29 2026 00:00:00",
+      114,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      125,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "August, 31 2026 00:00:00",
+      289,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      316,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2026,
+      "September, 02 2026 00:00:00",
+      196,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "26",
+    "species_id": "430",
+    "year": "2026",
+    "totalRecords": 37,
+    "totalCount": 3332,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-05T20:09:04.177683"
+  }
+}
