@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "August, 30 2026 00:00:00",
+      1,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "August, 31 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 01 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 02 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 03 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 04 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 05 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 06 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2026,
+      "September, 07 2026 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "26",
+    "species_id": "540",
+    "year": "2026",
+    "totalRecords": 9,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-13T05:59:50.140628"
+  }
+}
