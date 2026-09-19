@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2026,
+      "June, 06 2026 00:00:00",
+      182,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 07 2026 00:00:00",
+      117,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 08 2026 00:00:00",
+      149,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 09 2026 00:00:00",
+      181,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 10 2026 00:00:00",
+      575,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 11 2026 00:00:00",
+      706,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 12 2026 00:00:00",
+      1035,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 13 2026 00:00:00",
+      1015,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 14 2026 00:00:00",
+      2791,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 15 2026 00:00:00",
+      8060,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 16 2026 00:00:00",
+      4792,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 17 2026 00:00:00",
+      5708,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 18 2026 00:00:00",
+      13861,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 19 2026 00:00:00",
+      33875,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 20 2026 00:00:00",
+      43890,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 21 2026 00:00:00",
+      39227,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 22 2026 00:00:00",
+      32605,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 23 2026 00:00:00",
+      50359,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 24 2026 00:00:00",
+      117324,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 25 2026 00:00:00",
+      205851,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 26 2026 00:00:00",
+      278263,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 27 2026 00:00:00",
+      413762,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 28 2026 00:00:00",
+      855936,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 29 2026 00:00:00",
+      274217,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "June, 30 2026 00:00:00",
+      218196,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 01 2026 00:00:00",
+      86120,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 02 2026 00:00:00",
+      150851,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 03 2026 00:00:00",
+      70028,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 04 2026 00:00:00",
+      31267,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 05 2026 00:00:00",
+      34282,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 06 2026 00:00:00",
+      36381,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 07 2026 00:00:00",
+      42699,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 08 2026 00:00:00",
+      16692,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 09 2026 00:00:00",
+      15183,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 10 2026 00:00:00",
+      15144,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 11 2026 00:00:00",
+      14048,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 12 2026 00:00:00",
+      22912,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 13 2026 00:00:00",
+      18076,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 14 2026 00:00:00",
+      9119,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 15 2026 00:00:00",
+      9110,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 16 2026 00:00:00",
+      8223,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 17 2026 00:00:00",
+      4938,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 18 2026 00:00:00",
+      5136,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 19 2026 00:00:00",
+      4775,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 20 2026 00:00:00",
+      3435,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 21 2026 00:00:00",
+      6137,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 22 2026 00:00:00",
+      4052,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 23 2026 00:00:00",
+      9720,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 24 2026 00:00:00",
+      17454,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2026,
+      "July, 25 2026 00:00:00",
+      20778,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": "51",
+    "species_id": "420",
+    "year": "2026",
+    "totalRecords": 50,
+    "totalCount": 3259237,
+    "source": "ADFG JSON API",
+    "last_updated": "2026-09-19T15:41:59.427964"
+  }
+}
