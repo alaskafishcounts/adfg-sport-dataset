@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      697,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      911,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      646,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      1152,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      717,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      778,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      605,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      1022,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      940,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      523,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      456,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      364,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1150,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      2264,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      2838,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      2477,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      1641,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      1626,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      2545,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      2354,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      2548,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      2751,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      3659,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      2573,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      2200,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      2094,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      3213,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      2648,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      2337,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      1920,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      1264,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      1420,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      892,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      607,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      635,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      855,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      1126,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      1058,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      1125,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      1022,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      1012,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      1027,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      628,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      426,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      270,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      730,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 30 2025 00:00:00",
+      325,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "August, 31 2025 00:00:00",
+      233,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "September, 01 2025 00:00:00",
+      287,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "September, 02 2025 00:00:00",
+      90,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": 422,
+    "year": "2025",
+    "totalRecords": 50,
+    "totalCount": 66681,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-12-17T18:22:33.187647"
+  }
+}
