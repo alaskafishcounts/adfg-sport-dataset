@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      1,
+      410,
+      8,
+      "Eshamy Creek",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      1,
+      410,
+      8,
+      "Eshamy Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 8,
+    "species_id": 410,
+    "year": "2025",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-12-17T18:22:30.846204"
+  }
+}

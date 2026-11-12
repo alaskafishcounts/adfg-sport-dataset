@@ -1,0 +1,197 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2025-01-20T00:00:00Z",
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data"
+  }
+}

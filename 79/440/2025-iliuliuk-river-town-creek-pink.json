@@ -1,0 +1,201 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      15,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      2,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      2,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      15,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      35,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      7,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      19,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      70,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      70,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 79,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 13,
+    "totalCount": 235,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:07:36.070848",
+    "daysWithData": 9,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-26T10:32:11.750002",
+    "updateCount": 6,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-13T19:53:05.700844",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-14T22:07:33.266407",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-21T10:27:57.801207",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-21T10:33:33.791650",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-26T09:51:52.785178",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-26T10:32:11.750003",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 13,
+    "total_records": 13,
+    "merge_timestamp": "2025-09-26T10:32:11.750006",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 9,
+      "total_count": 235,
+      "total_records": 13
+    }
+  }
+}

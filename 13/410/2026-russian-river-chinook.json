@@ -1,0 +1,23 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [],
+  "metadata": {
+    "location_id": 13,
+    "location_name": "Russian River",
+    "species_id": 410,
+    "species_name": "Chinook Salmon (King)",
+    "year": 2026,
+    "last_updated": "2025-12-16T20:48:27.535172Z",
+    "data_source": "ADF&G Sport",
+    "data_status": "placeholder",
+    "note": "ADFG data not yet available for 2026 season. Placeholder file created on December 16, 2025 to prepare for year transition. Previous year (2025) had data for this location/species combination."
+  }
+}
